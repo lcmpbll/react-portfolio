@@ -4,5 +4,5 @@ import App from './App';
 import './index.css';
 
 
-const root = ReactDOM.render(<App/>, document.querySelector("#root"));
+ReactDOM.render(<App/>, document.querySelector("#root"));
 
