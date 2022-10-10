@@ -1,10 +1,10 @@
 import React from 'react'
 import './nav.css'
 
-const FloatNav = () => {
+const Nav = () => {
   return (
     <div>FloatNav</div>
   )
 }
 
-export default FloatNav
+export default Nav
