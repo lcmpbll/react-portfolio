@@ -34,7 +34,7 @@ const About = () => {
               <small>50+ Completed Projects</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum nostrum perspiciatis veniam libero magnam illo architecto ipsam ratione repellendus neque natus molestias animi sapiente magni, ipsa iste. Saepe, tenetur. Dolore!</p>
+          <p>After working in the grocery industry for the past couple years I decided put my love of problem solving and ability to think critically to work by learning to code with the help of Epicodus. I started Epicodus in late May of 2022 and with a focus on Javascript, C #, and React. In the future I hope to put the skills I'm learning now along with my previous experiences to jump start a new career in software development.</p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
