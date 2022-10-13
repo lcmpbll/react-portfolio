@@ -1,7 +1,35 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## By Liam Campbell
 
+## A Responsive React portfolio made to show case and polish my react skills.
+
+![React Portfolio](src/assets/appscreenshot.png)
+
+## Technologies Used
+* React.js
+* CSS
+* [React Icon Library](https://react-icons.github.io/react-icons/)
+* [EmailJS](https://www.emailjs.com/)
+
+## Description 
+
+_This is a react based porfolio I made while following [this tutorial](https://www.youtube.com/watch?v=G-Cr00UYokU) from EGATOR, it is easy to follow and provides excellent CSS structure. My portfolio is left in a pretty customizable state as I mostly updated the gh-pages when deploying with my personal information._ 
+
+## _Check out the hosted site [here](https://lcmpbll.github.io/react-portfolio/)_ 
+
+## Setup/Installation
+* Clone this repository to your desktop from [github](https://github.com/lcmpbll/react-portfolio)
+
+* Navigate to the top level of the repository
+
+* `$npm install`
+
+* `$npm run start`
+
+
+<details>
+<summary>Available Scripts</summary>
 ## Available Scripts
 
 In the project directory, you can run:
@@ -39,32 +67,15 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+</details>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Known Bugs
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* none
 
-### Code Splitting
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+_Feel free to reach out via [github](github.com/lcmpbll) or my [website](https://lcmpbll.github.io/react-portfolio/)_
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Copyright](LICENSE) (c) _10-13-2022_ _Liam Campbell_
