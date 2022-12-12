@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.46d38a47.css",
+    "main.js": "/react-portfolio/static/js/main.18aaeb03.js",
+    "static/media/portfolio2.png": "/react-portfolio/static/media/portfolio2.e05b12a9860533d80307.png",
+    "static/media/portfolio3.png": "/react-portfolio/static/media/portfolio3.10c61fd65ae03a832aec.png",
+    "static/media/portfolio5.png": "/react-portfolio/static/media/portfolio5.68b5179a58394087c1dc.png",
+    "static/media/portfolio1.png": "/react-portfolio/static/media/portfolio1.0e9033edf262da994518.png",
+    "static/media/portfolio4.png": "/react-portfolio/static/media/portfolio4.f89e13e765a1972ed2c3.png",
+    "static/media/IMG-7258.jpg": "/react-portfolio/static/media/IMG-7258.fc2960ff54fc6fc06d37.jpg",
+    "static/media/portfolio6.png": "/react-portfolio/static/media/portfolio6.423da8d6ee18077b2cc7.png",
+    "static/media/LiamCResume.pdf": "/react-portfolio/static/media/LiamCResume.096a54bab3a99a25eea3.pdf",
+    "static/media/moroccan-flower-dark.png": "/react-portfolio/static/media/moroccan-flower-dark.069cb5fa17e4ee948d6f.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.46d38a47.css.map": "/react-portfolio/static/css/main.46d38a47.css.map",
+    "main.18aaeb03.js.map": "/react-portfolio/static/js/main.18aaeb03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d38a47.css",
+    "static/js/main.18aaeb03.js"
+  ]
+}
