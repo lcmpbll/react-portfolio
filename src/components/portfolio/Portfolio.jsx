@@ -13,7 +13,7 @@ const data = [
     img: img1,
     title: 'Dog Bark',
     github: 'https://github.com/lcmpbll/Capstone',
-    demo: 'main.d1esgnd6ng74kd.amplifyapp.com/'
+    demo: 'https://main.d1esgnd6ng74kd.amplifyapp.com/'
   },
   {
     id: 2,
@@ -41,7 +41,7 @@ const data = [
     img: img4,
     title: 'Arkham Horror',
     github: 'https://github.com/lcmpbll/Arkham-Horror',
-    demo: 'lcmpbll.github.io/Arkham-Horror/'
+    demo: 'https://lcmpbll.github.io/Arkham-Horror/'
   },
   {
     id: 6,
