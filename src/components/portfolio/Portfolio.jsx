@@ -18,8 +18,8 @@ const data = [
   {
     id: 2,
     img: img2,
-    title: 'EpiGames',
-    github: 'https://github.com/lcmpbll/EpiGames',
+    title: 'React Dashboard',
+    github: 'https://github.com/lcmpbll/React-dashboard',
     demo: null
   },
   {
