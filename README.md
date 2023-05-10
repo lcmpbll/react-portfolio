@@ -4,7 +4,7 @@
 
 ## By Liam Campbell
 
-![Site example](src/assets/exampleforRM.png)
+![Site example](src/assets/appscreenshot.png)
 
 _Check out the [live site](https://lcmpbll.github.io/react-portfolio/)_
 
