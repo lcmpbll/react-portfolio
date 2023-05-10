@@ -14,6 +14,13 @@ _Check out the [live site](https://lcmpbll.github.io/react-portfolio/)_
 * Node.js
 * React icons
 
+## Known Bugs
+* None
+
+## WIP:
+* SEO
+
+
 ## License
 
 _Feel free to reach out via [Github](github.com.lcmpbll) to provide feedback on this project or to view my other projects._
