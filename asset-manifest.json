@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.ed5b6537.css",
-    "main.js": "/react-portfolio/static/js/main.1088ca2a.js",
+    "main.js": "/react-portfolio/static/js/main.f0474b3d.js",
     "static/media/portfolio3.png": "/react-portfolio/static/media/portfolio3.10c61fd65ae03a832aec.png",
+    "static/media/portfolio2.png": "/react-portfolio/static/media/portfolio2.cc056730b5ce17349e28.png",
     "static/media/portfolio5.png": "/react-portfolio/static/media/portfolio5.68b5179a58394087c1dc.png",
     "static/media/portfolio1.png": "/react-portfolio/static/media/portfolio1.0e9033edf262da994518.png",
-    "static/media/portfolio2.png": "/react-portfolio/static/media/portfolio2.316c7a60ece2be43c734.png",
     "static/media/portfolio4.png": "/react-portfolio/static/media/portfolio4.f89e13e765a1972ed2c3.png",
     "static/media/IMG-7258.jpg": "/react-portfolio/static/media/IMG-7258.fc2960ff54fc6fc06d37.jpg",
+    "static/media/LiamCampbellResume.pdf": "/react-portfolio/static/media/LiamCampbellResume.26ecf8bd2dd21838abbf.pdf",
     "static/media/portfolio6.png": "/react-portfolio/static/media/portfolio6.423da8d6ee18077b2cc7.png",
-    "static/media/LiamCampbellResume.pdf": "/react-portfolio/static/media/LiamCampbellResume.2035d7fa4a3c1e063c79.pdf",
     "static/media/moroccan-flower-dark.png": "/react-portfolio/static/media/moroccan-flower-dark.069cb5fa17e4ee948d6f.png",
     "index.html": "/react-portfolio/index.html",
     "main.ed5b6537.css.map": "/react-portfolio/static/css/main.ed5b6537.css.map",
-    "main.1088ca2a.js.map": "/react-portfolio/static/js/main.1088ca2a.js.map"
+    "main.f0474b3d.js.map": "/react-portfolio/static/js/main.f0474b3d.js.map"
   },
   "entrypoints": [
     "static/css/main.ed5b6537.css",
-    "static/js/main.1088ca2a.js"
+    "static/js/main.f0474b3d.js"
   ]
 }
