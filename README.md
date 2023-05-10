@@ -8,10 +8,11 @@
 
 _Check out the [live site](https://lcmpbll.github.io/react-portfolio/)_
 
+
 ## Technologies Used
 
-* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-* Node.js
+* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and created while following this [tutorial](https://www.youtube.com/watch?v=G-Cr00UYokU&t=1809s) from Egator
+* npm 
 * React icons
 
 ## Known Bugs
