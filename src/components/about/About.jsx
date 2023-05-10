@@ -29,7 +29,9 @@ const About = () => {
               <small>50+ Completed Projects</small>
             </article>
           </div>
-          <p>Experienced software developer with a passion for creative problem solving. Well versed in modern webdesign, with emphasis on reliable and efficient code. Skilled professional with the proven ability to work as part of a team.</p>
+          <p>
+            figAs a seasoned software developer, I am deeply committed to creative problem solving and possess a wealth of knowledge in modern web design, prioritizing the development of reliable and efficient code. My extensive experience has honed my abilities to collaborate effectively within a team environment, making me a skilled professional capable of delivering results that exceed expectations.
+          </p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
